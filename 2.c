@@ -8,6 +8,7 @@
 #include<stdio.h>
 int main ()
 {
+    printf("hahhah");
 
     printf("shayebushi");
     return 0;
